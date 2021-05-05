@@ -105,6 +105,7 @@ p{
 }
 @media  (max-width:1028px){
     .image-iphone{
+        margin-top:5%;
         position: static;
         transform: rotate(0);
     }
